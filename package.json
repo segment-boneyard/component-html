@@ -1,0 +1,19 @@
+{
+  "name": "component-html",
+  "version": "0.0.1",
+  "description": "A plugin to automatically convert HTML to Javascript strings for the component builder.",
+  "keywords": ["component", "html"],
+  "author": "Segment.io <friends@segment.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/component-jade.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "debug": "0.7.2"
+  },
+  "devDependencies" : {
+    "component-builder" : "~0.7.0"
+  }
+}
