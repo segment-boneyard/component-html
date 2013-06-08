@@ -203,6 +203,6 @@ require.register("example/index.js", function(exports, require, module){
 document.body.innerHTML = require('./template.html');
 });
 require.register("example/template.html.js", function(exports, require, module){
-module.exports = "<h1>Yay!</h1>"
+module.exports = "<h1 id=\"yay\">Yay!</h1>"
 });
 

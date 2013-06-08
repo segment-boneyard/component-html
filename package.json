@@ -1,6 +1,6 @@
 {
   "name": "component-html",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin to automatically convert HTML to Javascript strings for the component builder.",
   "keywords": ["component", "html"],
   "author": "Segment.io <friends@segment.io>",
